@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Samuel Omoijate
-- 👀 I’m interested in Data Analytics, Marketing Analytics and applying machine learning algorithms to help organisations make better marketing decisions.
-- 🌱 I’m currently learning the art of experimentation and causal inference to understand the effects of marketing efforts on growth and performance.
-- 💞️ I’m looking to collaborate on machine learning projects, product recommendations and experimentation projects (Marketing Mix Modeling and MTA)
-- 📫 You can reach me via:
+- 👀 I’m curious about Data Science, Marketing Science, Machine Learning and Causal Inference. I'mall about helping organisations make better marketing decisions.
+- 🌱 I’m currently learning experimentation, Marketing Mix Modeling, and causal inference to help me understand the causal effects of marketing programs on businesses' Key Performance metrics.
+- 💞️ I’m looking to collaborate on machine learning, product recommendations and experimentation projects (Marketing Mix Modeling and MTA)
+- 📫 I'll be happy to collaborate if you are!:
 -     Email: arrowhead2019@gmail.com
 -     LinkedIn: www.linkedin.com/in/samuel-omoijate-752580167
 
